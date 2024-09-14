@@ -8,6 +8,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" />
   <img width="12" />
 </div>
 
