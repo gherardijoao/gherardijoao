@@ -12,10 +12,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
 </div>
 
 ###
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GHERARDI-JOAO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false"/>
-  </div>
+</div>
