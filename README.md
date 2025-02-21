@@ -5,19 +5,23 @@
 
 <p style="font-size: 20px ;"> <b><i> about me:</i> </b></p>
 
-    - Information Systems Student at UFLA
     - Software Developer with a focus on frontend
+    - Information Systems Student at UFLA
     - Currently Studying: JavaScript & React.js
-    - Tools: Linux Mint(OS) - Visual Studio Code(IDE) - Notion(Notes)
-
-
 
 <p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
 
     - Languages: JavaScript, Java, Python, C++, SQL
-    - Frameworks and Techs: HTML5, CSS3, React.js, Git, PostgrSQL, MySQL
+    - Frameworks and Techs: HTML5, CSS3, React.js, Git, PostgreSQL, MySQL
+
+<p style="font-size: 20px ;"> <b><i> tools:</i> </b></p>
+
+    - Linux Mint(OS) 
+    - Visual Studio Code(IDE) 
+    - Notion(Notes)
 
 <p style="font-size: 20px ;"> <b><i> interested in:</i> </b></p>
 
     - Data structures, web animations, frontend
+    
     
