@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M321.39,56.44c58-10.79,114.16-30.13,172-41.86,82.39-16.72,168.19-17.73,250.45-.39C823.78,31,906.67,72,985.66,92.83c70.05,18.48,146.53,26.09,214.34,3V0H0V27.35A600.21,600.21,0,0,0,321.39,56.44Z" fill="black"/>
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+
+svg {
+  width:110vw;
+  position:fixed;
+  top:-5px;
+  transform: rotate(360deg);
+  overflow:visible;
+}
+
+.wave {
+  animation: wave 3s linear;
+  animation-iteration-count:infinite;
+  fill: #000;  
+}
+
+.wave:hover {
+  fill: #fff;
+}
+
+#wave2 {
+  animation-duration:6s;
+  animation-direction: reverse;
+  opacity: .9;
+}
+
+#wave3 {
+  animation-duration: 3s;
+  opacity:.6;
+}
+
+@keyframes wave {
+  to {transform: translateX(-100%);}
+}
+
+</style>
+
+ <defs> 
+    <filter id="anim">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+      <feColorMatrix in="blur" mode="matrix" values="
+           1 0 0 0 0  
+           0 1 0 0 0  
+           0 0 1 0 0  
+           0 0 0 13 -9" result="anim" />
+      <xfeBlend in="SourceGraphic" in2="anim" />
+  	</filter>
+    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+  </defs> 
+  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
 </svg>
