@@ -1,31 +1,33 @@
-<h2 align="center"><b>Gherardi's Profile</b></h2>
-<p align="center">Hello there! I'm João Gherardi, an Information Systems student at UFLA passionate about building amazing digital experiences. Currently focusing on frontend development to create beautiful and user-friendly interfaces!</p>
+<p style="font-size: 20px ;"> <b><i> GHERARDI'S PROFILE</i> </b></p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+<p align="left" style="font-size: 18px;"><i>Hello there! I'm João Gherardi, a software developer and information systems student, passionate about building amazing digital experiences. Currently focusing on frontend development to create beautiful and user-friendly interfaces.</i></p>
+
+<p style="font-size: 20px ;"> <b><i> about me:</i> </b></p>
+<ul>
+    <li>Information Systems Student at UFLA</li>
+    <li>Software Developer with a focus on frontend</li>
+    <li>Currently Studying: JavaScript & React.js</li>
+    <li>Tools: Linux Mint(OS) - Visual Studio Code(IDE) - Notion(Notes)</li>
+</ul>
+
+<p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
+<ul>
+    <li>Languages: JavaScript, Java, Python, C++, SQL</li>
+</ul>
+
+<p style="font-size: 20px ;"> <b><i> interested in:</i> </b></p>
+<ul>
+    <li>Data structures, web animations, frontend</li>
+</ul>
+
+<p style="font-size: 20px ;"> <b><i> coding stats and techs:</i> </b></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GHERARDI-JOAO&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="225"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="225"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="225"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="225"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="225"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="225"/>
 </div>
 
-###
-
-<div align="center">
-  <h3>📊 Coding Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GHERARDI-JOAO&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&hide=procfile,c%2B%2B" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p> 
