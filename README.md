@@ -14,15 +14,10 @@
 
 <p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
 
-    - Languages and frameworks: JavaScript, React.js, Java, Python, C++, SQL
+    - Languages: JavaScript, Java, Python, C++, SQL
+    - Frameworks and Techs: HTML5, CSS3, React.js, Git, PostgrSQL, MySQL
 
 <p style="font-size: 20px ;"> <b><i> interested in:</i> </b></p>
 
     - Data structures, web animations, frontend
     
-
-<p style="font-size: 20px ;"> <b><i> coding stats:</i> </b></p>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GHERARDI-JOAO&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
