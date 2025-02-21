@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Top Wave -->
-  <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/wave.gif" width="100%" height="50px">
+  <img src="/wave-top.svg" width="100%" height="50" alt="Top Wave">
 
   <h2><b>Gherardi's Profile</b></h2>
   <p>Hello there! I'm João Gherardi, an Information Systems student at UFLA passionate about building amazing digital experiences. Currently focusing on frontend development to create beautiful and user-friendly interfaces!</p>
@@ -34,6 +33,5 @@
     </a>
   </p>
 
-  <!-- Bottom Wave -->
-  <img src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/wave.gif" width="100%" height="50px" style="transform: rotate(180deg);">
+  <img src="/wave-top.svg" width="100%" height="50" alt="Bottom Wave">
 </div>
