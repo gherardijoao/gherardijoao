@@ -14,7 +14,7 @@
 
 <p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
 
-    - Languages: JavaScript, Java, Python, C++, SQL
+    - Languages and frameworks: JavaScript, React.js, Java, Python, C++, SQL
 
 <p style="font-size: 20px ;"> <b><i> interested in:</i> </b></p>
 
