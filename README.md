@@ -6,7 +6,7 @@
 <p style="font-size: 20px ;"> <b><i> about me:</i> </b></p>
 
     - Software Developer with a focus on frontend
-    - Information Systems Student at UFL
+    - Information Systems Student at UFLA
     - Currently Studying: JavaScript & React.js
 
 <p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
