@@ -7,7 +7,7 @@
 
     - Software Developer with a focus on frontend
     - Information Systems Student at UFLA
-    - Currently Studying: JavaScript, React.js & C++
+    - Currently Studying: JavaScript, React.js, Node.js & C++
 
 <p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
 
