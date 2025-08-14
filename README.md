@@ -1,13 +1,13 @@
 <p style="font-size: 20px ;"> <b><i> GHERARDI'S PROFILE</i> </b></p>
 
-<p align="left" style="font-size: 18px;"><i>Hello there! I'm João Gherardi, a software developer and information systems student, passionate about building amazing digital experiences. Currently focusing on frontend development to create beautiful and user-friendly interfaces.</i></p>
+<p align="left" style="font-size: 18px;"><i>Hello there! I'm João Gherardi, a software developer and information systems student, passionate about building amazing digital experiences. Currently focusing on fullstack development.</i></p>
 
 
 <p style="font-size: 20px ;"> <b><i> about me:</i> </b></p>
 
-    - Software Developer with a focus on frontend
+    - Software Developer
     - Information Systems Student at UFLA
-    - Currently Studying: JavaScript, TypeScript, React.js, Node.js & C++
+    - Currently Studying: React.js, Java, Spring Boot
 
 <p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
 
