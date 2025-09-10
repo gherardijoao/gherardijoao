@@ -7,7 +7,7 @@
 
     - Software Developer
     - Information Systems Student at UFLA
-    - Currently Studying: React.js, Java, Spring Boot
+    - Currently Studying: Amgular, Java, Spring Boot
 
 <p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
 
