@@ -22,6 +22,6 @@
 
 <p style="font-size: 20px ;"> <b><i> interested in:</i> </b></p>
 
-    - Data structures, web animations, frontend
+    - Data structures, web animations, web development
     
     
