@@ -12,7 +12,7 @@
 <p style="font-size: 20px ;"> <b><i> tech stack:</i> </b></p>
 
     - Languages: JavaScript, Typescript, Java, Python, C++, SQL
-    - Frameworks and Techs: HTML5, CSS3, React.js, Node.js, Git, PostgreSQL, MySQL
+    - Frameworks and Techs: HTML5, CSS3, React.js, Angular, Node.js, Git, PostgreSQL, MySQL
 
 <p style="font-size: 20px ;"> <b><i> tools:</i> </b></p>
 
