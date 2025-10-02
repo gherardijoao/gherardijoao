@@ -16,7 +16,7 @@
 
 <p style="font-size: 20px ;"> <b><i> tools:</i> </b></p>
 
-    - Linux Mint(OS) 
+    - Fedora(OS) 
     - Visual Studio Code(IDE) 
     - Notion(Notes)
 
